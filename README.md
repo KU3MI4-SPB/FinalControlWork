@@ -1,7 +1,5 @@
 # Итоговая контрольная работа
 
-![program_work](https://github.com/KU3MI4-SPB/FinalControlWork/assets/129791531/37cf5de0-bb56-42e9-aee7-b74f5934ae8a)
-
 ## Задание 
 
 ### Операционные системы и виртуализация (Linux)
@@ -324,7 +322,12 @@ LEFT JOIN home_animals ha ON ha.ID = hm.genus;
 **8. ООП и Java**
    - Создать иерархию классов в Java, который будет повторять диаграмму классов созданную в задаче 6(Диаграмма классов).
 
-
+## [РЕШЕНИЕ] (https://github.com/KU3MI4-SPB/FinalControlWork/tree/master/App/Model)
 
 **9. Программа-реестр домашних животных**
     - Написать программу на Java, которая будет имитировать реестр домашних животных. 
+
+
+![program_work](https://github.com/KU3MI4-SPB/FinalControlWork/assets/129791531/37cf5de0-bb56-42e9-aee7-b74f5934ae8a)
+
+## [ПРОГРАММА] (https://github.com/KU3MI4-SPB/FinalControlWork/tree/master/App)
