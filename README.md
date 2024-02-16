@@ -74,7 +74,8 @@ dpkg -r atom
 Каждый тип животных будет характеризоваться (например, имена, даты рождения, выполняемые команды и т.д)
 Диаграмму можно нарисовать в любом редакторе, такими как Lucidchart, Draw.io, Microsoft Visio и других.
 
-![diagram] (https://github.com/KU3MI4-SPB/FinalControlWork/blob/master/diagram.jpg)
+<p align="center">
+   <img src="https://github.com/KU3MI4-SPB/FinalControlWork/blob/master/diagram.jpg" alt="Диаграма"/>
 
 **7. Работа с MySQL**
 
