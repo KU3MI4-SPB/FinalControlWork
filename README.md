@@ -1,5 +1,8 @@
 Итоговая контрольная работа
 
+![program_work](https://github.com/KU3MI4-SPB/FinalControlWork/assets/129791531/37cf5de0-bb56-42e9-aee7-b74f5934ae8a)
+
+
  Информация о проекте
  Необходимо организовать систему учета для питомника в котором живут домашние и Pack animals. 
 
