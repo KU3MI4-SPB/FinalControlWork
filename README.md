@@ -327,8 +327,8 @@ LEFT JOIN home_animals ha ON ha.ID = hm.genus;
 **9. Программа-реестр домашних животных**
     - Написать программу на Java, которая будет имитировать реестр домашних животных. 
 
-
-![program_work](https://github.com/KU3MI4-SPB/FinalControlWork/assets/129791531/37cf5de0-bb56-42e9-aee7-b74f5934ae8a)
-
+<p align="center">
+   <img src="https://github.com/KU3MI4-SPB/FinalControlWork/assets/129791531/37cf5de0-bb56-42e9-aee7-b74f5934ae8a" alt="Анимация"/>
+</p>
 
 <h2 align="center">Перейти к <a href="https://github.com/KU3MI4-SPB/FinalControlWork/tree/master/App" target="_blank">ПРОГРАММЕ</a> </h2>
